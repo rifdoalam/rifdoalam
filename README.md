@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [rifdo.tech](rifdo.tech)
+- 👨‍💻 All of my projects are available at [rifdoalam.tech](rifdoalam.tech)
 
 - 💬 Ask me about **Software Developing, Machine Learning, And Data**
 
