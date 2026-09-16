@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rifdo Shah Alam</h1>
 <h3 align="center">A passionate Software Engineer from Indonesia</h3>
 
-- 🔭 I’m currently working on [Varnion Website Builder](https://www.varnion.tech/login)
 
 - 🌱 I’m currently learning **Machine Learning**
 
